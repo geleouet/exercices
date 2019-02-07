@@ -25,4 +25,4 @@ Compute a table showing for each last digit, as a percentage (with 2 digits), th
 As you can see, for this computation done on the perimeter of the provided number,
 the prime number whose last digit is 1, are more likely to be followed by a prime number ending with 7, then 3, then 9.. and finally 1.
 
-> list of primes number can be found here -> https://github.com/geleouet/exercices/raw/master/primeStatistics/primes.txt
+> [list of primes number can be found here](https://github.com/geleouet/exercices/raw/master/primeStatistics/primes.txt)

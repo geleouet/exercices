@@ -22,7 +22,7 @@ And of course we support both at the same time:
 
 _15 => FizzBuzzBuzz (divisible by 3, divisible by 5, contains a 5)_
 
-_1535 => FizzBuzzBuzzFizzBuzz (divisible by 3, divisible by 5, contains a 5, then a 3, then a 5)_
+_2535 => FizzBuzzBuzzFizzBuzz (divisible by 3, divisible by 5, contains a 5, then a 3, then a 5)_
 
 And then to really make a difference on our market, we need to support the 7, replaced with Woof.
 

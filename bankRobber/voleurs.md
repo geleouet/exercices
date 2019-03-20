@@ -62,7 +62,7 @@ _Exemple 4:_
 > 30s
 ```
 
-_Exemple 4:_
+_Exemple 5:_
 ```
 - 2 voleurs
 - 5 coffres (C = 2, D = 5) (C = 1, D = 5) (C = 3, D = 5) (C = 1, D = 5) (C = 1, D = 5)  
@@ -73,5 +73,8 @@ _Exemple 4:_
 
 ## Objectifs
 
-L'objectif de ce sujet est d'écrire du code qui suit le domaine métier, on cherchera donc à modéliser le voleur, le coffre, etc...
+Les objectifs de ce sujet sont :
+- le domaine métier, on cherchera donc à modéliser le voleur, le coffre, etc...
+- le découpage des responsabilitées
+- l'immutabilté des données
 

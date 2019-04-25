@@ -14,3 +14,6 @@ Le code est la seule chose que votre interlocuteur va connaitre de vous, soyez a
 
 **_Medium_**
 - [FizzBuzzWoof](https://github.com/geleouet/exercices/tree/master/fizzBuzzWoof)
+
+**_Medium_**
+- [Voleurs de banque](https://github.com/geleouet/exercices/blob/bankRobber/bankRobber) :new:

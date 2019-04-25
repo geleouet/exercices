@@ -9,3 +9,5 @@
 > Permettre au robot de reculer
 
 > Interdire à deux robots d'être sur la même position
+
+> Envoyer une deuxième liste de commandes au rover

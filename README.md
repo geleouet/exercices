@@ -8,7 +8,10 @@ Le code est la seule chose que votre interlocuteur va connaitre de vous, soyez a
 **_Easy_**
 - [PrimeNumbers Statistics](https://github.com/geleouet/exercices/tree/master/primeStatistics)
  
- 
+**_Easy_**
+- [Fruits basket](https://github.com/geleouet/exercices/tree/master/fruitBasket) :new:
+
+
 **_Medium_**
 - [MarsRover](https://github.com/geleouet/exercices/tree/master/marsRover)
 
@@ -16,4 +19,5 @@ Le code est la seule chose que votre interlocuteur va connaitre de vous, soyez a
 - [FizzBuzzWoof](https://github.com/geleouet/exercices/tree/master/fizzBuzzWoof)
 
 **_Medium_**
-- [Voleurs de banque](https://github.com/geleouet/exercices/blob/bankRobber/bankRobber) :new:
+- [Voleurs de banque](https://github.com/geleouet/exercices/blob/bankRobber/bankRobber)
+

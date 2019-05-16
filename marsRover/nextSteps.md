@@ -11,3 +11,7 @@
 > Interdire à deux robots d'être sur la même position
 
 > Envoyer une deuxième liste de commandes au rover
+
+> Grille circulaire (comme une planète)
+
+> Le rover doit reporter les obstacles rencontrés

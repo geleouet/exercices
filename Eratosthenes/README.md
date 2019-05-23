@@ -7,7 +7,8 @@
 
 Le code suivant est illisible 😭
 
-[🡆 code 🤬](https://github.com/geleouet/exercices/blob/master/Eratosthenes/App.java)
+[🡆 code Java 🤬](https://github.com/geleouet/exercices/blob/master/Eratosthenes/App.java)
+[🡆 code Java 🤬](https://github.com/geleouet/exercices/blob/master/Eratosthenes/Program.cs)
 
 Pouvez-vous l'améliorer  🔧🔨 ?  
 

@@ -11,6 +11,8 @@ Le code suivant est illisible 😭
 
 [🡆 code C# 🤬](https://github.com/geleouet/exercices/blob/master/Eratosthenes/Program.cs)
 
+[🡆 code Python 🤬](https://github.com/geleouet/exercices/blob/master/Eratosthenes/Program.py)
+
 Pouvez-vous l'améliorer  🔧🔨 ?  
 
 

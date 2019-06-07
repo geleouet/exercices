@@ -12,7 +12,7 @@ Le code est la seule chose que votre interlocuteur va connaitre de vous, soyez a
 - [Fruits basket](https://github.com/geleouet/exercices/tree/master/fruitBasket) :new:
 
 **_Easy_**
-- [Eratosthenes](https://github.com/geleouet/exercices/tree/master/Eratosthenes) :new:
+- [Eratosthenes](https://github.com/geleouet/exercices/tree/master/Eratosthenes) (Java/ C#/ Python)
 
 
 **_Medium_**

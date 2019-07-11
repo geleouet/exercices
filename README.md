@@ -9,7 +9,7 @@ Le code est la seule chose que votre interlocuteur va connaitre de vous, soyez a
 - [PrimeNumbers Statistics](https://github.com/geleouet/exercices/tree/master/primeStatistics)
  
 **_Easy_**
-- [Fruits basket](https://github.com/geleouet/exercices/tree/master/fruitBasket) :new:
+- [Fruits basket](https://github.com/geleouet/exercices/tree/master/fruitBasket) 
 
 **_Easy_**
 - [Eratosthenes](https://github.com/geleouet/exercices/tree/master/Eratosthenes) (Java/ C#/ Python)
@@ -25,5 +25,5 @@ Le code est la seule chose que votre interlocuteur va connaitre de vous, soyez a
 - [Voleurs de banque](https://github.com/geleouet/exercices/tree/master/bankRobber)
 
 **_Advanced_**
-- [OptServer](https://github.com/geleouet/exercices/blob/master/OptServer/README.md)
+- [OptServer](https://github.com/geleouet/exercices/blob/master/OptServer/README.md)  :new:
 

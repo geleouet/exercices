@@ -24,6 +24,6 @@ Le code est la seule chose que votre interlocuteur va connaitre de vous, soyez a
 **_Medium_**
 - [Voleurs de banque](https://github.com/geleouet/exercices/tree/master/bankRobber)
 
-**_Advanced_  WebService**
+**_Advanced_  ( WebService)**
 - [OptServer](https://github.com/geleouet/exercices/blob/master/OptServer/README.md)  :new:
 
